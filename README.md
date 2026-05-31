@@ -1,7 +1,7 @@
 # Hi there, I'm Om! 👋 (om289)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+%26+Deep+Learning+Enthusiast;Biometrics+%26+IoT+Developer;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+%26+Deep+Learning+Enthusiast;Blockchain+%26+Biometrics+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,8 +19,8 @@ I'm a versatile developer passionate about building security-focused web applica
 ### 🚀 Featured Projects
 
 #### 🌐 Web Applications & Platforms
-*   **[CompressBit](https://compressbit.com)** — A professional, privacy-first web utility for compressing PDF and image files. All processing happens entirely client-side in the browser's memory using JavaScript and WebAssembly, ensuring files are never uploaded to a server.
-*   **ViBe** — An interactive online learning and student engagement platform. Features quick quizzes, smart presence checks, and flexible engagement tools to make virtual classrooms active and transparent.
+*   **[CompressBit](https://compressbit.com)** — A professional, privacy-first web utility for compressing PDF and image files. All processing happens entirely client-side in the browser's memory.
+*   **ViBe** — An interactive online learning and student engagement platform. Features quick quizzes, smart presence checks, and flexible engagement tools to make virtual classrooms active and engaging.
 *   **ClassConnect** — A lightweight, PHP-based virtual classroom management website designed for seamless teacher-student interaction.
 
 #### 🔐 Biometrics & Blockchain (Web3)
@@ -31,7 +31,7 @@ I'm a versatile developer passionate about building security-focused web applica
 *   **PDF & PPT Summarizer for Exams** — An NLP-powered tool designed to digest exam materials (lecture notes, textbooks, slides) and instantly generate high-quality summaries and practice questions.
 
 #### 🔌 IoT & APIs
-*   **NAMSTE-ICD-API (AYUSH-Connect)** — A FHIR-compliant RESTful API built for the Smart India Hackathon (SIH) designed to seamlessly bridge Traditional Indian Medicine (AYUSH) database records with modern Electronic Health Records (EHR).
+*   **NAMSTE-ICD-API (AYUSH-Connect)** — A FHIR-compliant RESTful API built for the Smart India Hackathon (SIH) designed to seamlessly bridge Traditional Indian Medicine (AYUSH) database records with modern EHR systems.
 *   **IoT Water Irrigation System** — An automated crop-watering controller built on hardware chips using JavaScript/C++ for scheduling and sensing moisture levels.
 
 ---
@@ -73,19 +73,6 @@ I'm a versatile developer passionate about building security-focused web applica
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om289&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om289&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om289&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
-</p>
 
 ---
 
