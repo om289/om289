@@ -1,7 +1,7 @@
 # Hi there, I'm Om! 👋 (om289)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+%26+Deep+Learning+Enthusiast;Biometrics+%26+IoT+Developer;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+%26+Deep+Learning+Enthusiast;Biometrics+%26+IoT+Builder;Web3+%26+Blockchain+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,19 +19,19 @@ I'm a versatile developer passionate about building security-focused web applica
 ### 🚀 Featured Projects
 
 #### 🌐 Web Applications & Platforms
-*   **[CompressBit](https://compressbit.com)** — A professional, privacy-first web utility for compressing PDF and image files. All processing happens entirely client-side in the browser's memory using JavaScript and WebAssembly, ensuring files are never uploaded to a server.
+*   **[CompressBit](https://compressbit.com)** — A professional, privacy-first web utility for compressing PDF and image files. All processing happens entirely client-side in the browser's memory using WebAssembly for maximum security.
 *   **ViBe** — An interactive online learning and student engagement platform. Features quick quizzes, smart presence checks, and flexible engagement tools to make virtual classrooms active and transparent.
 *   **ClassConnect** — A lightweight, PHP-based virtual classroom management website designed for seamless teacher-student interaction.
 
 #### 🔐 Biometrics & Blockchain (Web3)
-*   **Biochain Vote & Scanner** — A secure blockchain-based voting portal that utilizes biometric fingerprint scans (integrating Nitgen/NBioBSP SDKs) to ensure verified, tamper-proof identity verification.
+*   **Biochain Vote & Scanner** — A secure blockchain-based voting portal that utilizes biometric fingerprint scans (integrating Nitgen/NBioBSP SDKs) to ensure verified, tamper-proof identity verification and immutable vote records.
 *   **Fingerprint Service** — A custom backend service interfacing with local fingerprint SDKs to manage authentication across various web clients.
 
 #### 🤖 Artificial Intelligence & Machine Learning
-*   **PDF & PPT Summarizer for Exams** — An NLP-powered tool designed to digest exam materials (lecture notes, textbooks, slides) and instantly generate high-quality summaries and practice questions.
+*   **PDF & PPT Summarizer for Exams** — An NLP-powered tool designed to digest exam materials (lecture notes, textbooks, slides) and instantly generate high-quality summaries and practice questions for better exam preparation.
 
 #### 🔌 IoT & APIs
-*   **NAMSTE-ICD-API (AYUSH-Connect)** — A FHIR-compliant RESTful API built for the Smart India Hackathon (SIH) designed to seamlessly bridge Traditional Indian Medicine (AYUSH) database records with modern Electronic Health Records (EHR).
+*   **NAMSTE-ICD-API (AYUSH-Connect)** — A FHIR-compliant RESTful API built for the Smart India Hackathon (SIH) designed to seamlessly bridge Traditional Indian Medicine (AYUSH) database records with modern healthcare systems.
 *   **IoT Water Irrigation System** — An automated crop-watering controller built on hardware chips using JavaScript/C++ for scheduling and sensing moisture levels.
 
 ---
@@ -69,7 +69,7 @@ I'm a versatile developer passionate about building security-focused web applica
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Arduino_IoT-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-      <img src="https://img.shields.io/badge/Biometrics-SDK-FF8C00?style=flat-square&logo=biometrics" alt="Biometrics" />
+      <img src="https://img.shields.io/badge/Biometrics_SDK-FF8C00?style=flat-square&logoColor=white" alt="Biometrics" />
     </td>
   </tr>
 </table>
@@ -78,14 +78,14 @@ I'm a versatile developer passionate about building security-focused web applica
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om289&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om289&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=om289&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om289&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om289&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=om289&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -95,7 +95,7 @@ I'm a versatile developer passionate about building security-focused web applica
   <a href="https://github.com/om289" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="https://www.linkedin.com/in/om-metha-916a00283">
+  <a href="https://www.linkedin.com/in/om-metha-916a00283" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ommetha31@gmail.com">
