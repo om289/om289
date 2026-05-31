@@ -1,7 +1,7 @@
 # Hi there, I'm Om! 👋 (om289)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+%26+Deep+Learning+Enthusiast;Biometrics+%26+IoT+Builder;Web3+%26+Blockchain+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+%26+Deep+Learning+Enthusiast;Security+%26+Biometrics+Dev;IoT+Integrations;Web3+Explorer" alt="Typing Animation" />
 </p>
 
 ---
@@ -19,19 +19,19 @@ I'm a versatile developer passionate about building security-focused web applica
 ### 🚀 Featured Projects
 
 #### 🌐 Web Applications & Platforms
-*   **[CompressBit](https://compressbit.com)** — A professional, privacy-first web utility for compressing PDF and image files. All processing happens entirely client-side in the browser's memory using WebAssembly for maximum security.
+*   **[CompressBit](https://compressbit.com)** — A professional, privacy-first web utility for compressing PDF and image files. All processing happens entirely client-side in the browser's memory using WebAssembly.
 *   **ViBe** — An interactive online learning and student engagement platform. Features quick quizzes, smart presence checks, and flexible engagement tools to make virtual classrooms active and transparent.
 *   **ClassConnect** — A lightweight, PHP-based virtual classroom management website designed for seamless teacher-student interaction.
 
 #### 🔐 Biometrics & Blockchain (Web3)
-*   **Biochain Vote & Scanner** — A secure blockchain-based voting portal that utilizes biometric fingerprint scans (integrating Nitgen/NBioBSP SDKs) to ensure verified, tamper-proof identity verification and immutable vote records.
+*   **Biochain Vote & Scanner** — A secure blockchain-based voting portal that utilizes biometric fingerprint scans (integrating Nitgen/NBioBSP SDKs) to ensure verified, tamper-proof identity verification.
 *   **Fingerprint Service** — A custom backend service interfacing with local fingerprint SDKs to manage authentication across various web clients.
 
 #### 🤖 Artificial Intelligence & Machine Learning
-*   **PDF & PPT Summarizer for Exams** — An NLP-powered tool designed to digest exam materials (lecture notes, textbooks, slides) and instantly generate high-quality summaries and practice questions for better exam preparation.
+*   **PDF & PPT Summarizer for Exams** — An NLP-powered tool designed to digest exam materials (lecture notes, textbooks, slides) and instantly generate high-quality summaries and practice questions.
 
 #### 🔌 IoT & APIs
-*   **NAMSTE-ICD-API (AYUSH-Connect)** — A FHIR-compliant RESTful API built for the Smart India Hackathon (SIH) designed to seamlessly bridge Traditional Indian Medicine (AYUSH) database records with modern healthcare systems.
+*   **NAMSTE-ICD-API (AYUSH-Connect)** — A FHIR-compliant RESTful API built for the Smart India Hackathon (SIH) designed to seamlessly bridge Traditional Indian Medicine (AYUSH) database records with modern EHR systems.
 *   **IoT Water Irrigation System** — An automated crop-watering controller built on hardware chips using JavaScript/C++ for scheduling and sensing moisture levels.
 
 ---
@@ -79,8 +79,8 @@ I'm a versatile developer passionate about building security-focused web applica
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om289&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om289&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://readme-stats-sigma-five.vercel.app/api?username=om289&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://readme-stats-sigma-five.vercel.app/api/top-langs/?username=om289&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
