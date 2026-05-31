@@ -79,13 +79,12 @@ I'm a versatile developer passionate about building security-focused web applica
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om289&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om289&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" height="180" />
+  <a href="https://github.com/om289">
+    <img height="180em" src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/themes/dark.json" alt="GitHub Stats"/>
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=om289&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+**GitHub Profile:** [@om289](https://github.com/om289)
 
 ---
 
