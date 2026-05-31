@@ -1,7 +1,7 @@
 # Hi there, I'm Om! 👋 (om289)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+%26+Deep+Learning+Enthusiast;Web3+%26+Biometrics+Expert;IoT+%26+Cloud+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+%26+Deep+Learning+Enthusiast;Biometrics+%26+IoT+Developer;Competitive+Programmer" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,8 +19,8 @@ I'm a versatile developer passionate about building security-focused web applica
 ### 🚀 Featured Projects
 
 #### 🌐 Web Applications & Platforms
-*   **[CompressBit](https://compressbit.com)** — A professional, privacy-first web utility for compressing PDF and image files. All processing happens entirely client-side in the browser's memory.
-*   **ViBe** — An interactive online learning and student engagement platform. Features quick quizzes, smart presence checks, and flexible engagement tools to make virtual classrooms active and engaging.
+*   **[CompressBit](https://compressbit.com)** — A professional, privacy-first web utility for compressing PDF and image files. All processing happens entirely client-side in the browser's memory using JavaScript and WebAssembly, ensuring files are never uploaded to a server.
+*   **ViBe** — An interactive online learning and student engagement platform. Features quick quizzes, smart presence checks, and flexible engagement tools to make virtual classrooms active and transparent.
 *   **ClassConnect** — A lightweight, PHP-based virtual classroom management website designed for seamless teacher-student interaction.
 
 #### 🔐 Biometrics & Blockchain (Web3)
@@ -31,7 +31,7 @@ I'm a versatile developer passionate about building security-focused web applica
 *   **PDF & PPT Summarizer for Exams** — An NLP-powered tool designed to digest exam materials (lecture notes, textbooks, slides) and instantly generate high-quality summaries and practice questions.
 
 #### 🔌 IoT & APIs
-*   **NAMSTE-ICD-API (AYUSH-Connect)** — A FHIR-compliant RESTful API built for the Smart India Hackathon (SIH) designed to seamlessly bridge Traditional Indian Medicine (AYUSH) database records with modern health systems.
+*   **NAMSTE-ICD-API (AYUSH-Connect)** — A FHIR-compliant RESTful API built for the Smart India Hackathon (SIH) designed to seamlessly bridge Traditional Indian Medicine (AYUSH) database records with modern Electronic Health Records (EHR).
 *   **IoT Water Irrigation System** — An automated crop-watering controller built on hardware chips using JavaScript/C++ for scheduling and sensing moisture levels.
 
 ---
@@ -69,7 +69,7 @@ I'm a versatile developer passionate about building security-focused web applica
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Arduino_IoT-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-      <img src="https://img.shields.io/badge/Biometrics_SDK-FF8C00?style=flat-square&logoColor=white" alt="Biometrics" />
+      <img src="https://img.shields.io/badge/Biometrics-SDK-FF8C00?style=flat-square&logo=biometrics" alt="Biometrics" />
     </td>
   </tr>
 </table>
@@ -78,13 +78,14 @@ I'm a versatile developer passionate about building security-focused web applica
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/om289">
-    <img height="180em" src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/themes/dark.json" alt="GitHub Stats"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=om289&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om289&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
 
-**GitHub Profile:** [@om289](https://github.com/om289)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om289&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
+</p>
 
 ---
 
@@ -94,10 +95,10 @@ I'm a versatile developer passionate about building security-focused web applica
   <a href="https://github.com/om289" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/om-metha-916a00283" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ommetha31@gmail.com">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
